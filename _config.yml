@@ -1,1 +1,4 @@
+name: Amir's bio
+description: My career's journey
 theme: jekyll-theme-slate
+markdown: kramdown
